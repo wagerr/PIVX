@@ -41,5 +41,6 @@ More information at [wagerr.com](http://www.wagerr.com/) Visit our ANN thread at
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 1</td><td>1002-ToBeSet</td><td>3.8 WGR</td><td>75% (2.85 WGR) & 25% (0.95 WGR) respectively</td><td>0% (0 WGR)</td></tr>
+<tr><td>Phase 1</td><td>1002-10000</td><td>0 WGR</td><td>75% (0 WGR) & 25% (0 WGR) respectively</td><td>0% (0 WGR)</td></tr>
+<tr><td>Phase 2</td><td>10001-ToBeSet</td><td>3.8 WGR</td><td>75% (2.85 WGR) & 25% (0.95 WGR) respectively</td><td>0% (0 WGR)</td></tr>
 </table>
