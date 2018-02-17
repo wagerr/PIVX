@@ -7,12 +7,12 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/pivx
-src/pivxd
-src/pivx-cli
-src/pivx-tx
-src/test/test_pivx
-src/qt/test/test_pivx-qt
+src/wagerr
+src/wagerrd
+src/wagerr-cli
+src/wagerr-tx
+src/test/test_wagerr
+src/qt/test/test_wagerr-qt
 
 # autoreconf
 Makefile.in
@@ -38,8 +38,8 @@ confdefs.h
 conftest.cpp
 conftest.err
 libtool
-src/config/pivx-config.h
-src/config/pivx-config.h.in
+src/config/wagerr-config.h
+src/config/wagerr-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -65,7 +65,7 @@ src/qt/test/moc*.cpp
 *.o
 *.o-*
 *.patch
-.pivx
+.wagerr
 *.a
 *.pb.cc
 *.pb.h
@@ -84,12 +84,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-pivx-qt
-PIVX-Qt.app
+wagerr-qt
+WAGERR-Qt.app
 
 # Unit-tests
 Makefile.test
-pivx-qt_test
+wagerr-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -105,7 +105,7 @@ build
 #lcov
 *.gcno
 /*.info
-test_pivx.coverage/
+test_wagerr.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -128,3 +128,18 @@ qa/pull-tester/test.*/*
 .idea
 CMakeLists.txt
 cmake-build-debug
+
+# text editors
+.vscode/
+
+
+# dev tools
+/test1.exe
+/test1.c
+/test1
+
+# dont add *.old
+*.old
+
+# Releases
+release/
