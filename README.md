@@ -10,7 +10,7 @@ Wagerr is a cutting edge cryptocurrency, with many features not available in mos
   technology used to secure the network and provide the above features, each Masternode is secured
   with a collateral of 25K WGR.
 
-More information at [wagerr.com](http://www.wagerr.com/) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [wagerr.com](http://www.wagerr.com/) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=1911583.0)
 
 ### Coin Specs
 <table>
