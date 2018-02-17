@@ -34,12 +34,12 @@ More information at [wagerr.com](http://www.wagerr.com/) Visit our ANN thread at
 <tr><td>102-1001</td><td>0 WGR</td></tr>
 <tr><th colspan=4>PoS Phase</th></tr>
 <tr><th>Block Height</th><th colspan=3>Reward Amount</th></tr>
-<tr><td>1002-Infinite</td><td colspan=3>Variable based on <a href="https://pivx.org/knowledge-base/see-saw-rewards-mechanism/">SeeSaw Reward Mechanism</a></td></tr>
+<tr><td>1002-Infinite</td><td colspan=3>Variable based on yearly burn total
 </table>
 
 ### PoS Rewards Breakdown
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 1</td><td>1002-ToBeSet</td><td>3.8 WGR</td><td>75% (2.85 WGR) & 25% (0.95 WGR) respectively</td><td>0% (0 WGR)</td></tr>
+<tr><td>Phase 1</td><td>10001-ToBeSet</td><td>3.8 WGR</td><td>75% (2.85 WGR) & 25% (0.95 WGR) respectively</td><td>0% (0 WGR)</td></tr>
 </table>
